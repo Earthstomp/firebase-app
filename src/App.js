@@ -8,7 +8,7 @@ import Dashboard from "./Dashboard";
 function App() {
   return (
     <div className="app">
-      Testing Github Action
+      Testing Github Action 2
       <Router>
         <Routes>
           <Route exact path="/" element={<Login />} />
